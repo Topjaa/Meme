@@ -12,6 +12,7 @@ public class Meme extends JavaPlugin {
     }
 
     public void onDisable(){
+        //update
         getServer().getConsoleSender().sendMessage(ChatColor.RED + "\n\nMeme has been Disabled\n\n");
     }
 
