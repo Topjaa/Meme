@@ -13,6 +13,7 @@ public class Meme extends JavaPlugin {
 
     public void onDisable(){
         //update
+        
         //nigger
         getServer().getConsoleSender().sendMessage(ChatColor.RED + "\n\nMeme has been Disabled\n\n");
     }
